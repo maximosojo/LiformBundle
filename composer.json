@@ -17,5 +17,10 @@
   "require": {
     "limenius/liform": "^0.17.0"
   },
+  "extra": {
+      "branch-alias": {
+          "dev-master": "^0.13.0"
+      }
+  },
   "minimum-stability": "stable"
 }
