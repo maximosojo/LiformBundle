@@ -15,6 +15,12 @@
     }
   },
   "require": {
-    "limenius/liform": "^0.17.0"
-  }
+    "limenius/liform": "dev-master"
+  },
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/maximosojo/Liform"
+      }
+  ]
 }
